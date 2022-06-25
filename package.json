@@ -20,7 +20,7 @@
       "resolved": "https://registry.npmjs.org/long/-/long-3.2.0.tgz",
       "version": "3.2.0"
     },
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "prism-media": {
       "integrity": "sha1-o0JcnKvVDRxsAuVDlBoRiVZnvRA=",
       "resolved": "https://registry.npmjs.org/prism-media/-/prism-media-0.0.1.tgz",
